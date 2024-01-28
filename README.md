@@ -1,7 +1,7 @@
 - 👋 Hello everyone, I am Swedish Programmer @EkoSoftware.
 -    I decided to join the opensource part of the internet to learn from others.
 -    Hopefully my own projects can teach other users something too.   
-- 👀 Im currently about 7 months into programming in Python.
+- 👀 Im currently about 12 months into programming in C and Python.
 -    Which i started on par with the beginnings of my studies to become a network technician.
 -    I really enjoy finding out more about how the internet works in depth at a low level.  
 - 🌱 For now i am in a phase of creating alot of projects, and then remaking them into better versions.
